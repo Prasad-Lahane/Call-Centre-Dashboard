@@ -19,7 +19,8 @@ To analyze call centre operations and summarize:
 * **Total Calls:** 1,000  **Revenue:** ₹96,623  **Duration:** 89,850 min
 * **Top Performer:** R02 (218 calls, ₹20.6k revenue)
 * **Highest Activity:** March
-* **Avg. Rating:** 3.9  **Happy Customers:** 307
+* **Avg. Rating:** 3.9
+* **Happy Customers:** 307
 * **Most Active City:** Cleveland
 
 # ⚙️ Tools & Techniques
